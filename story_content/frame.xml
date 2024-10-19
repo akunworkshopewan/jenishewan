@@ -11,9 +11,9 @@
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="true">
+          <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="JENIS HEWAN" />
+              <option name="title_text" value="ETNO MATH" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -75,11 +75,12 @@
           </option>
           <option name="settings" value="false" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1285,12 +1286,50 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6N6JwhVhMB3" displaytext="MPI JENIS HEWAN" expand="true" type="slide">
+        <slidelink slideid="_player.5tDm6V1kWAQ" displaytext="Proto tegining" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6N6JwhVhMB3.6nsrPlalLxW" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6N6JwhVhMB3.5t0GyQoWyIA" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6N6JwhVhMB3.5Zg8LONhXwo" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6N6JwhVhMB3.5vubAJNb19S" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5WVqGSzHj3o" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.611j7FWl0rD" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5ZHnw25ErtI" displaytext="games" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6exqMJOBAzg" displaytext="farmer" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5Za04myvLIc" displaytext="chat" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5esIZni9ooL" displaytext="tebak" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5kgqcisiUAm" displaytext="cari sapi" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5nkbZ53buOk" displaytext="labirin" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5fMoBqvGPgr" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5mU7oFaMsjQ" displaytext="ANBK" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5qcdYnMcc7X" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5reMP1Xy5bD" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5vxFZOifhMz" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6EVTsEXosxd" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6Vo9kb1E91g" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6NuQD11mwpJ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6nQHlbbNm7o" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.61zUhX8hlXE" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6CePS6egGbG" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5ckSk6MZxaD" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6rIsjlKdFjW" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5WAcvEUO0m5" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5ggVsTPqW3q" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6P4zEvWpzjb" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6oPQdTS0DM2" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5WGQ2SH3meI" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6Oc6rIQI8Ac" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.651qzV0gMSw" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6MgHKEPDmiV" displaytext="AR" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6fdRMxygA0o" displaytext="AR tambah" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6O7SOojTxqK" displaytext="AR Kurang" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6pnCOVYpjbD" displaytext="AR kali" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.5tnI5nvRXDR" displaytext="AR Bagi" expand="false" type="slide" />
+            <slidelink slideid="_player.5tDm6V1kWAQ.6dmmob5YvLl" displaytext="battle" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5nIsVvLdg46" displaytext="Proto tegining" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5nIsVvLdg46.66mikb81YlV" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nIsVvLdg46.6JUo3x7aOFw" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nIsVvLdg46.6eGcPlHXtXO" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5nIsVvLdg46.6Oe9W5FDwX4" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
